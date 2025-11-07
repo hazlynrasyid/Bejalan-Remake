@@ -78,17 +78,6 @@ export default defineConfig([
 
 ---
 
-## Daftar Isi
-
-* [Fitur Utama](#fitur-utama)
-* [Teknologi](#teknologi)
-* [Instalasi](#instalasi)
-* [Cara Penggunaan](#cara-penggunaan)
-* [Kontribusi](#kontribusi)
-* [Lisensi](#lisensi)
-
----
-
 ## Fitur Utama
 
 Fitur-fitur utama yang ada di platform "Bejalan":
