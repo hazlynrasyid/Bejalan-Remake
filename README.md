@@ -71,3 +71,19 @@ export default defineConfig([
   },
 ])
 ``` -->
+
+# Bejalan ✈️
+
+**Bejalan** adalah sebuah platform website pemesanan travel yang dirancang untuk memudahkan pengguna menemukan destinasi, memesan paket liburan, dan mengelola perjalanan mereka dengan efisien.
+
+---
+
+## Fitur Utama
+
+Fitur-fitur utama yang ada di platform "Bejalan":
+
+* 🔎 **Pencarian Destinasi:** Pengguna dapat mencari tempat wisata atau paket perjalanan berdasarkan lokasi, tanggal, atau kategori.
+* 📦 **Pemesanan Paket:** Sistem pemesanan terintegrasi untuk paket liburan, hotel, dan tiket.
+* 👤 **Manajemen Profil:** Pengguna dapat mendaftar, login, dan mengelola profil serta riwayat pemesanan mereka.
+* 💳 **Gateway Pembayaran:** (Jika ada) Integrasi dengan gateway pembayaran untuk transaksi yang aman.
+* 📖 **Blog & Artikel:** (Opsional) Artikel dan tips seputar dunia traveling.
